@@ -8,6 +8,9 @@ of a project. Plus, by sharing our work, we can ask increasingly complex questio
 Open Science is a new way of doing science that focuses on cooperation and sharing of alll of the products of research.  It often uses 
 digital tools that allow data sharing and collaboration.
 
+>Open science—opening up the scientific process from idea inception to result—increases access to knowledge and expands opportunities for participation. Sharing the data, code, results, and knowledge associated with the scientific process enables more inclusive, diverse and equitable participation in science, while also leading to more transparent, replicable and reproducible results. But achieving this openness requires changing how we work, to help us move forward together.
+(From TOPS)
+
 Open Science aims to increase:
 - accessibility;
 - transparency;
@@ -18,3 +21,4 @@ Open Science aims to increase:
 
 ## Resources
 [NASA Tranform to Open Science (TOPS)](https://science.nasa.gov/open-science/transform-to-open-science)
+[Foster Open Science](https://www.fosteropenscience.eu/content/what-open-science-introduction)
