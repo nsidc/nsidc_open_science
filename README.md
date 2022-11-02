@@ -22,3 +22,4 @@ Open Science aims to increase:
 ## Resources
 [NASA Tranform to Open Science (TOPS)](https://science.nasa.gov/open-science/transform-to-open-science)
 [Foster Open Science](https://www.fosteropenscience.eu/content/what-open-science-introduction)
+[Why do Open Science - NASA](https://science.nasa.gov/open-science/why-do-open-science)
