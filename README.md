@@ -23,3 +23,6 @@ Open Science aims to increase:
 [NASA Tranform to Open Science (TOPS)](https://science.nasa.gov/open-science/transform-to-open-science)  
 [Foster Open Science](https://www.fosteropenscience.eu/content/what-open-science-introduction)  
 [Why do Open Science - NASA](https://science.nasa.gov/open-science/why-do-open-science)  
+
+### Building reproducible software
+[Anaconda guide to building reproducible software](https://www.anaconda.com/blog/8-levels-of-reproducibility?utm_source=employee_advocacy&utm_medium=everyonesocial&utm_campaign=47705291-5dbc-48bb-be09-591561c39a30&es_id=86085a5408)
