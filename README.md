@@ -26,3 +26,7 @@ Open Science aims to increase:
 
 ### Building reproducible software
 [Anaconda guide to building reproducible software](https://www.anaconda.com/blog/8-levels-of-reproducibility?utm_source=employee_advocacy&utm_medium=everyonesocial&utm_campaign=47705291-5dbc-48bb-be09-591561c39a30&es_id=86085a5408)
+
+### Reading lists
+[TOPS](https://github.com/nasa/Transform-to-Open-Science/blob/main/Open_Science_Cookbook/reading_list.md)
+[Cryointhecloud](https://book.cryointhecloud.com/reference/open_science.html)
