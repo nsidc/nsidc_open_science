@@ -28,13 +28,32 @@ Open Science aims to increase:
   
 ## Resources
 [NASA Tranform to Open Science (TOPS)](https://science.nasa.gov/open-science/transform-to-open-science)  
-[Foster Open Science](https://www.fosteropenscience.eu/content/what-open-science-introduction)  
+[What is Open Science: Foster Open Science](https://www.fosteropenscience.eu/content/what-open-science-introduction)  
+[Foster Open Science web site](https://www.fosteropenscience.eu/)  
 [Why do Open Science - NASA](https://science.nasa.gov/open-science/why-do-open-science)  
+[A taxonomy of Open Science](https://figshare.com/articles/figure/Open_Science_Taxonomy/1508606/3)  
+[National Academies of Sciences, Engineering, and Medicine. 2018. Open Science by Design: Realizing a Vision for 21st Century Research. Washington, DC: The National Academies Press. https://doi.org/10.17226/25116.](https://www.nap.edu/catalog/25116/open-science-by-design-realizing-a-vision-for-21st-century)  
+[Do You Speak Open Science? Resources and Tips to Learn theLanguage](https://doi.org/10.7287/peerj.preprints.2689v1)  
+[European Commission Report: Responsible metrics and evaluation for open science](https://openaccess.leidenuniv.nl/bitstream/handle/1887/58254/report.pdf)  
+[Earthlab tutorial on research compendia](https://mbjoseph.github.io/intro-research-compendia/#1)  
+[RDA Global Open Science Commons Interest Group](https://www.rd-alliance.org/groups/global-open-research-commons-ig)  
+[UNESCO Global Consultations on Open Science](https://en.unesco.org/science-sustainable-future/open-science/consultation)  
+[AGU response to RFI on open science and publishing](https://www.agu.org/-/media/Files/Share-and-Advocate-for-Science/Letters/2020-Letters/AGU_OSTP_RFI_Open_Access_Response_final.pdf)  
+
+## Funding Agency Policy on Open Science
+[NSF 20-068 DCL: Open Science for Research Data](https://www.nsf.gov/pubs/2020/nsf20068/nsf20068.jsp)  
+[NASA](https://www.earthdata.nasa.gov/esds/open-science)  
+[EU's research and innovation policy on Open Science](https://ec.europa.eu/research/openscience/)  
+[OSTP Guidance to Federal Agencies on access to publically funded reasearch](https://www.whitehouse.gov/ostp/news-updates/2022/08/25/ostp-issues-guidance-to-make-federally-funded-research-freely-available-without-delay/)
+
+## Open Access Publishing and Copyright
+[AGU publication and copyright policy](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Policies/Permission-policy)  
+[AMS publication and copyright policy]()  
 
 ### Building reproducible software
 [Anaconda guide to building reproducible software](https://www.anaconda.com/blog/8-levels-of-reproducibility?utm_source=employee_advocacy&utm_medium=everyonesocial&utm_campaign=47705291-5dbc-48bb-be09-591561c39a30&es_id=86085a5408)  
-[FAIR research software](https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg)
+[FAIR research software](https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg)  
 
 ### Reading lists
 [TOPS](https://github.com/nasa/Transform-to-Open-Science/blob/main/Open_Science_Cookbook/reading_list.md)  
-[Cryointhecloud](https://book.cryointhecloud.com/reference/open_science.html)
+[Cryointhecloud](https://book.cryointhecloud.com/reference/open_science.html)  
