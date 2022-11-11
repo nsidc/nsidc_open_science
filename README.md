@@ -1,14 +1,11 @@
 # Tactics for an Open Science strategy at the National Snow and Ice Data Center
 ## What is Open Science
-_Some Initial Thoughts..._  
-Open science is the process of making science open and accessible to all through reproducibility and availability of research data and 
-analysis steps. Practicing open science allows you to get critical feedback throughout the process, rather than just towards the end 
-of a project. Plus, by sharing our work, we can ask increasingly complex questions.
+_This should define what Open Science means within NSIDC.  Some Initial Thoughts..._  
+Open Science is the process of making the scientific process open and accessible to all through making all steps in the _research cycle_ from inception of ideas, data collection, data analysis and publication transparent and accessible to all.  Key to this is openly sharing data, code, results and knowledge.  These steps should enhance reproducibility, improving confidence in results and conclusions.  Practicing open science also allows researchers to get critical feedback throughout the process, rather than just towards the end of a project. By sharing our work and building on the work of others, we can work more efficiently and ask increasingly complex questions.  Moreover, Open Science enables more inclusive, diverse and equitable participation in science.
 
-Open Science is a new way of doing science that focuses on cooperation and sharing of alll of the products of research.  It often uses 
-digital tools that allow data sharing and collaboration.
+Open Science is a new way of doing science that will require changing how we work and acquiring new skills, as well as teaching new skills to students.  It focuses on cooperation and sharing, often through the use digital tools that facilitate data sharing and collaboration.  
 
->Open science—opening up the scientific process from idea inception to result—increases access to knowledge and expands opportunities for participation. Sharing the data, code, results, and knowledge associated with the scientific process enables more inclusive, diverse and equitable participation in science, while also leading to more transparent, replicable and reproducible results. But achieving this openness requires changing how we work, to help us move forward together.
+>Open science—opening up the scientific process from idea inception to result—increases access to knowledge and expands opportunities for participation. Sharing the data, code, results, and knowledge associated with the scientific process , while also leading to more transparent, replicable and reproducible results. But achieving this openness requires changing how we work, to help us move forward together.
 (From TOPS)
 
 Open Science aims to increase:
@@ -19,6 +16,16 @@ Open Science aims to increase:
 - innovation;
 - diversity and inclusion.
 
+## Tactics for moving towards Open Science at NSIDC
+- Make all published NSIDC research papers Open Access by publishing in Open Access journals or placing copies of papers on institutional websites in accordance with publishers.  
+  - _Add links to main publishers Open Access Guidance_  
+  - Investigate having NSIDC publications page on website
+- Make research data used in publications Findable (DOI), Accessible (archived in public repository), Interoperable, and Reusable ([FAIR definition]
+(https://force11.org/info/the-fair-data-principles/))  
+- Work with Developers to create training and how-to pages.  Also create space for Open Science stories/guides from Science Team.
+- Make research software/computer code available to the communnity
+  - This should include code created for all steps of the research cycle: getting data, cleaning data, analyzing data, making figures.
+  
 ## Resources
 [NASA Tranform to Open Science (TOPS)](https://science.nasa.gov/open-science/transform-to-open-science)  
 [Foster Open Science](https://www.fosteropenscience.eu/content/what-open-science-introduction)  
@@ -26,6 +33,7 @@ Open Science aims to increase:
 
 ### Building reproducible software
 [Anaconda guide to building reproducible software](https://www.anaconda.com/blog/8-levels-of-reproducibility?utm_source=employee_advocacy&utm_medium=everyonesocial&utm_campaign=47705291-5dbc-48bb-be09-591561c39a30&es_id=86085a5408)  
+[FAIR research software](https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg)
 
 ### Reading lists
 [TOPS](https://github.com/nasa/Transform-to-Open-Science/blob/main/Open_Science_Cookbook/reading_list.md)  
