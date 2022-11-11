@@ -48,7 +48,7 @@ Open Science aims to increase:
 
 ## Open Access Publishing and Copyright
 [AGU publication and copyright policy](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Policies/Permission-policy)  
-[AMS publication and copyright policy]()  
+[AMS publication and copyright policy](https://www.ametsoc.org/ams/index.cfm/publications/ethical-guidelines-and-ams-policies/ams-copyright-policy/)  
 
 ### Building reproducible software
 [Anaconda guide to building reproducible software](https://www.anaconda.com/blog/8-levels-of-reproducibility?utm_source=employee_advocacy&utm_medium=everyonesocial&utm_campaign=47705291-5dbc-48bb-be09-591561c39a30&es_id=86085a5408)  
