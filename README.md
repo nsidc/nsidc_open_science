@@ -1,4 +1,7 @@
 # Tactics for an Open Science strategy at the National Snow and Ice Data Center
+
+## This is a work in progress, please contribute
+If you want to contribute see the [Contributing Guide](contributing_guide.md)
 ## What is Open Science
 _This should define what Open Science means within NSIDC.  Some Initial Thoughts..._  
 Open Science is the process of making the scientific process open and accessible to all through making all steps in the _research cycle_, from inception of ideas, data collection, data analysis to publication, transparent and accessible to all.  Key to this is openly sharing data, code, results and knowledge.  These steps should enhance reproducibility, improving confidence in results and conclusions.  Practicing open science also allows researchers to get critical feedback throughout the process, rather than just towards the end of a project. By sharing our work and building on the work of others, we can work more efficiently and ask increasingly complex questions.  Moreover, Open Science enables more inclusive, diverse and equitable participation in science.
