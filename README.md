@@ -41,7 +41,8 @@ Open Science aims to increase:
 [Earthlab tutorial on research compendia](https://mbjoseph.github.io/intro-research-compendia/#1)  
 [RDA Global Open Science Commons Interest Group](https://www.rd-alliance.org/groups/global-open-research-commons-ig)  
 [UNESCO Global Consultations on Open Science](https://en.unesco.org/science-sustainable-future/open-science/consultation)  
-[AGU response to RFI on open science and publishing](https://www.agu.org/-/media/Files/Share-and-Advocate-for-Science/Letters/2020-Letters/AGU_OSTP_RFI_Open_Access_Response_final.pdf)  
+[AGU response to RFI on open science and publishing](https://www.agu.org/-/media/Files/Share-and-Advocate-for-Science/Letters/2020-Letters/AGU_OSTP_RFI_Open_Access_Response_final.pdf) 
+[Credit where credit is due](https://eos.org/opinions/credit-where-credit-is-due)
 
 ## Funding Agency Policy on Open Science
 [NSF 20-068 DCL: Open Science for Research Data](https://www.nsf.gov/pubs/2020/nsf20068/nsf20068.jsp)  
