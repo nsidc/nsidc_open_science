@@ -46,7 +46,8 @@ Open Science aims to increase:
 
 ## Funding Agency Policy on Open Science
 [NSF 20-068 DCL: Open Science for Research Data](https://www.nsf.gov/pubs/2020/nsf20068/nsf20068.jsp)  
-[NASA](https://www.earthdata.nasa.gov/esds/open-science)  
+[NASA](https://www.earthdata.nasa.gov/esds/open-science)
+[SPD 41a](https://science.nasa.gov/science-red/s3fs-public/atoms/files/SMD-information-policy-SPD-41a.pdf)
 [EU's research and innovation policy on Open Science](https://ec.europa.eu/research/openscience/)  
 [OSTP Guidance to Federal Agencies on access to publically funded reasearch](https://www.whitehouse.gov/ostp/news-updates/2022/08/25/ostp-issues-guidance-to-make-federally-funded-research-freely-available-without-delay/)
 
