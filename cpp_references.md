@@ -1,6 +1,7 @@
 # Further Reading
 
 ## Federal and Funding Agency Policy
+[SPD-41a](https://science.nasa.gov/science-red/s3fs-public/atoms/files/SMD-information-policy-SPD-41a.pdf)
 
 ## Community Standards
 [FAIR Prinicples](https://www.go-fair.org/fair-principles/)  
