@@ -8,3 +8,5 @@
 [CF (Climate Forecast) conventions](https://cfconventions.org/)  
 [Open Geospatial Consortium GeoTIFF standard](https://www.ogc.org/standards/geotiff)  
 [CSV Guidelines](https://www.rfc-editor.org/rfc/rfc4180)  
+
+[NASA's Science Information Policy Page](https://science.nasa.gov/researchers/science-data/science-information-policy)
