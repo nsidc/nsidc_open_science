@@ -17,6 +17,13 @@ Metadata and data from federally funded research must be deposited in a long-liv
 Gentemann, C., Why NASA and federal agencies are declaring this the Year of Open Science, Nature, 13 January 2023
 https://doi.org/10.1038/d41586-023-00019-y
 
+### Data Management
+Borer, E. T., Seabloom, E. W., Jones, M. B., & Schildhauer, M. (2009). Some Simple Guidelines for Effective Data Management. The Bulletin of the Ecological Society of America, 90(2), 205–214. https://doi.org/10.1890/0012-9623-90.2.205  
+Wickham, H. (2014). Tidy Data. Journal of Statistical Software, 59, 1–23. https://doi.org/10.18637/jss.v059.i10  
+
+### Scientific Computing
+Wilson, G., Aruliah, D. A., Brown, C. T., Hong, N. P. C., Davis, M., Guy, R. T., et al. (2014). Best Practices for Scientific Computing. PLOS Biology, 12(1), e1001745. https://doi.org/10.1371/journal.pbio.1001745  
+Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., & Teal, T. K. (2017). Good enough practices in scientific computing. PLOS Computational Biology, 13(6), e1005510. https://doi.org/10.1371/journal.pcbi.1005510  
 
 ### Federal and Funding Agency Policy
 [White House OSTP Memorandum on Open Science](https://www.whitehouse.gov/wp-content/uploads/2022/08/08-2022-OSTP-Public-Access-Memo.pdf)  
