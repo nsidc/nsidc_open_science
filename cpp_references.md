@@ -19,7 +19,15 @@ https://doi.org/10.1038/d41586-023-00019-y
 
 
 ### Federal and Funding Agency Policy
+[White House OSTP Memorandum on Open Science](https://www.whitehouse.gov/wp-content/uploads/2022/08/08-2022-OSTP-Public-Access-Memo.pdf)  
 [SPD-41a](https://science.nasa.gov/science-red/s3fs-public/atoms/files/SMD-information-policy-SPD-41a.pdf)
+
+[NASA OSSI Page](https://science.nasa.gov/open-science-overview)
+
+### NASA TOPS Resources
+[TOPS webpage](https://nasa.github.io/Transform-to-Open-Science)  
+[TOPS GitHub](https://github.com/nasa/Transform-to-Open-Science)  
+[Introduction to TOPS presentation](https://doi.org/10.5281/zenodo.5621674)  
 
 ### Community Standards
 [FAIR Prinicples](https://www.go-fair.org/fair-principles/)  
