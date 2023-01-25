@@ -17,6 +17,11 @@ Metadata and data from federally funded research must be deposited in a long-liv
 Gentemann, C., Why NASA and federal agencies are declaring this the Year of Open Science, Nature, 13 January 2023
 https://doi.org/10.1038/d41586-023-00019-y
 
+### Archiving code with Zenodo
+* [Adding a standard citation file to your code repository](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files)
+* [Configuring Zenodo to automatically create a new DOI with each GitHub Release](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content)
+* Example projects: [QGreenland](https://github.com/nsidc/qgreenland), ...?
+
 ### Attribution and Credit
 Parsons, M., Katz, D., Langseth, M., Ramapriyan, H., & Ramdeen, S. (2022). Credit Where Credit Is Due. Eos, 103. https://doi.org/10.1029/2022EO220239  
 
@@ -41,7 +46,7 @@ Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., & Teal, T. K. (
 [Introduction to TOPS presentation](https://doi.org/10.5281/zenodo.5621674)  
 
 ### Community Standards
-[FAIR Prinicples](https://www.go-fair.org/fair-principles/)  
+[FAIR Principles](https://www.go-fair.org/fair-principles/)  
 
 [CF (Climate Forecast) conventions](https://cfconventions.org/)  
 [Open Geospatial Consortium GeoTIFF standard](https://www.ogc.org/standards/geotiff)  
