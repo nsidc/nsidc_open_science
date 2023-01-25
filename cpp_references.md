@@ -1,5 +1,16 @@
 # Open Science: How to do it.  Notes, links and references
 
+These links and references accompany a presentation given at the National Snow and Ice Data Center, University of Colorado at Boulder, USA, on 25 January 2023 by Andy Barrett and Walt Meier
+
+## Abstract
+
+On 11 January, 2023, the White House Office of Science and Technology Policy officially inaugurated 2023 as the “Year of Open Science”. This follows on the heels of the release of a memorandum on 25 August 2022 that called for all federal agencies to ensure that all peer-reviewed publications, along with associated data and code, from federally funded research be made freely available and publicly accessible without any embargo or delay after publication1.  Federal agencies that fund research are already requiring sponsored researchers to take similar steps as a condition to receive funding.  These funding agencies will also soon require both data management and software sharing plans to be included as part of proposals.  Many journals now either require or strongly encourage data and code associated with manuscripts to be shared openly.  These moves towards a more open science are intended to make science more transparent, reproducible, equitable and also more accessible to a more diverse community.
+
+While it is hopefully clear that Open Science is a better way of doing science, it is less clear how we can “do” Open Science.  Many groups are working to help facilitate open science, including NASA through its “Transform to Open Science” (TOPS) program, which has developed an OpenCore curriculum. In this seminar, we will present a brief overview of the Ethos of Open Science, review some of the current initiatives (e.g., TOPS), and present thoughts on how we as researchers can start to do Open Science.  There is no single correct way to do Open Science.  We suggest taking small steps to integrate open science practices into scientific workflows.  Taking time to learn new tools that enable these open science practices is a good way to develop skills as you start new projects.
+
+Slides can be found on zenodo.org   
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7570266.svg)](https://doi.org/10.5281/zenodo.7570265)
+
 ## Links
 ### Data Archives
 Metadata and data from federally funded research must be deposited in a long-lived, publically accessible archive.  The links below are for recognized archives.  
