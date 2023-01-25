@@ -32,6 +32,7 @@ Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., & Teal, T. K. (
 [NASA OSSI Page](https://science.nasa.gov/open-science-overview)
 
 ### NASA TOPS Resources
+[TOPS What is Open Science](https://nasa.github.io/Transform-to-Open-Science/what-is-open-science/)  
 [TOPS webpage](https://nasa.github.io/Transform-to-Open-Science)  
 [TOPS GitHub](https://github.com/nasa/Transform-to-Open-Science)  
 [Introduction to TOPS presentation](https://doi.org/10.5281/zenodo.5621674)  
