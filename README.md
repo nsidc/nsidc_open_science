@@ -24,7 +24,7 @@ Open Science aims to increase:
 
 ## Tactics for moving towards Open Science at NSIDC
 
-See <tactics.md>!
+See [tactics.md](./tactics.md)!
 
 ## Resources
 [NASA Tranform to Open Science (TOPS)](https://science.nasa.gov/open-science/transform-to-open-science)  
