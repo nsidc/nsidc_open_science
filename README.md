@@ -5,6 +5,8 @@
 
 NSIDC Open Science is a collection resources to help NSIDC transition to Open Science practices.
 
+The main [What is Open Science](what_is_open_science.md) page provides an intro to Open Science and links to other pages.
+
 ## Level of Support
 
 * This repository is a living document but is not actively supported by NSIDC but we welcome issue submissions and
