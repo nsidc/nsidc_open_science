@@ -1,8 +1,11 @@
-# Tactics for an Open Science strategy at the National Snow and Ice Data Center
+# An Open Science strategy at the National Snow and Ice Data Center
 
 ## This is a work in progress, please contribute
+
 If you want to contribute see the [Contributing Guide](contributor_guide.md)
+
 ## What is Open Science
+
 _This should define what Open Science means within NSIDC.  Some Initial Thoughts..._  
 Open Science is the process of making the scientific process open and accessible to all through making all steps in the _research cycle_, from inception of ideas, data collection, data analysis to publication, transparent and accessible to all.  Key to this is openly sharing data, code, results and knowledge.  These steps should enhance reproducibility, improving confidence in results and conclusions.  Practicing open science also allows researchers to get critical feedback throughout the process, rather than just towards the end of a project. By sharing our work and building on the work of others, we can work more efficiently and ask increasingly complex questions.  Moreover, Open Science enables more inclusive, diverse and equitable participation in science.
 
@@ -20,15 +23,9 @@ Open Science aims to increase:
 - diversity and inclusion.
 
 ## Tactics for moving towards Open Science at NSIDC
-- Make all published NSIDC research papers Open Access by publishing in Open Access journals or placing copies of papers on institutional websites in accordance with publishers.  
-  - _Add links to main publishers Open Access Guidance_  
-  - Investigate having NSIDC publications page on website
-- Make research data used in publications Findable (DOI), Accessible (archived in public repository), Interoperable, and Reusable ([FAIR definition]
-(https://force11.org/info/the-fair-data-principles/))  
-- Work with Developers to create training and how-to pages.  Also create space for Open Science stories/guides from Science Team.
-- Make research software/computer code available to the communnity
-  - This should include code created for all steps of the research cycle: getting data, cleaning data, analyzing data, making figures.
-  
+
+See [tactics.md](./tactics.md)!
+
 ## Resources
 [NASA Tranform to Open Science (TOPS)](https://science.nasa.gov/open-science/transform-to-open-science)  
 [What is Open Science: Foster Open Science](https://www.fosteropenscience.eu/content/what-open-science-introduction)  
