@@ -15,6 +15,7 @@
     cleaning data, analyzing data, making figures.
 - Establish a series of structured group discussions facilitating NSIDC's Open Science
   transition
+  - The [open science reading club](https://github.com/nsidc/open-science-reading-club) is one such group at NSIDC.
 - Develop infrastructure and practices necessary to do Open Science by default (e.g.
   levels of service).
 - Develop broad proficiency with version control (Git & GitHub) on the science team and
